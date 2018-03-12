@@ -92,7 +92,7 @@ ICASI 2017
 2. Chuan-Yen Chiang, **Che-Pin Chang**, Hung-Yu Chen, Yen-Lin Chen, Shyan-Ming Yuan, and Che Wang  <br>
 ATP: A Browser-Based Distributed Testing Service Platform <br>
 ICS 2016
-3. Chih-Tien Fan, Zong-You Wu, Che-Pin Chang, and Shyan Ming Yuan <br>
+3. Chih-Tien Fan, Zong-You Wu, **Che-Pin Chang**, and Shyan Ming Yuan <br>
 Web resource cacheable edge device in fog computing <br>
 ISPDC 2016
 4. **Che-Pin Chang**, Ze-Yan Yang, and Shyan-Ming Yuan <br>
