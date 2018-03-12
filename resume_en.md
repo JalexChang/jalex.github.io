@@ -75,7 +75,7 @@ Director: Prof. Shyan-Ming Yuan
 
 ## Publications
 ### Journal Papers
-1. **Che-Pin Chane** and Shyan-Ming Yuan <br>
+1. **Che-Pin Chang** and Shyan-Ming Yuan <br>
 Cross-touch Attribution Model based on Factorization Machines for Online Advertising <br>
 Information Sciences (under review)
 2. **Che-Pin Chang**, Zih-Chen Hsieh, and Shyan-Ming Yuan <br>
