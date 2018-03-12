@@ -32,10 +32,10 @@ CPE: 3/6
 Web Full Stack Developer
 * AdHub Shorten, a customized URL redirection service for cross-meida advertising
 * AdHub Shorten Plugin, a chrome plugin of AdHub Shorten
-* Facebook crawler for public data of users and clubs
-* Facebook operation agent development
+* Facebook crawler for public data of users and fanpages
+* Facebook operation agent
 
-### Internship, CacaFly Intl. Media , FunP Inc. (2017 - present)
+### Internship, CacaFly Intl. Media, FunP Inc. (2017 - present)
 Data Researcher
 * Recommendation algo. design for Facebook fanpages' advertising campaign (a side project of Auto Booster)
 * Multi-touch attribution analysis for cross-meida advertising
@@ -128,6 +128,6 @@ IEEE CSE 2013
 | Statistics                                     | A+ |
 
 ## Languages
-* Chinese - Naive 
+* Chinese - Native 
 * English - Professional working proficiency
  
