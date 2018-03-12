@@ -28,15 +28,54 @@ CPE: 3/6
 * 2013 **Outstanding Contribution Award (in Service)**, National Chiao Tung University
 
 ## Experience
-
 ### Work Experience
+#### Internship, AdHub, FunP Inc. (2015 - 2016)
+Web Full Stack Developer
+* AdHub Shorten, a customized URL redirection service for cross-meida advertising
+* AdHub Shorten Plugin, a chrome plugin of AdHub Shorten
+* Facebook crawler for public data of users and clubs
+* Facebook operation agent development
+
+#### Internship, CacaFly Intl. Media , FunP Inc. (2017 - present)
+Data Researcher
+* Recommendation algo. design for Facebook fanpages' advertising campaign (a side project of Auto Booster)
+* Multi-touch attribution analysis for cross-meida advertising
+* Customers' behaviors analysis for E-commerce  
+* Research on cost per fan (CPF) prediction for Facebook fanpages
 
 ### Research Experience
+#### Research Assistant, National Chiao Tung University (2013 - present)
+Distributed Computing Systems Lab. (DCSLab), Advisor: Prof. Shyan-Ming Yuan
+* Maintain and manage DCSLab's website and servers
+* Write funding proposals (for Taiwan government and industries)
+* Write and review academic articles
+* Train and mentor master students in DCSLab.
+* Project involved:
+    * Integrated Eye Movement Analysis System for Interactive Stimulus and it's Application in Digital Editorship (2016 - present)
+    * Research on Decision Making based on Unreliable Distributed Computing Environment (2017 - 2018)
+    * Research and Development of Cloud Storage Access Gateway (2014 - 2016)
+
+#### Administrator, Data and Commercial Application Research Center (2014 - 2017)
+Director: Prof. Shyan-Ming Yuan
+* Computational Advertising, Data-drievn Applied System, and Location-Based Service
+* Maintain and manage the centor's servers
+* Train and lead the center's members to finish Industry-Academy Cooperation Plans
+* Project involved :
+    * Research and Development of Cross-media Advertising Analytics Platform (2015 - 2018)
+    * Research and Development of Real-time Data Processing System for Location Based Service (2017)
 
 ### Teaching Experience
+#### Teaching Assistant, National Chiao Tung University (2013-2018)
+* Operating Systems (2014f, 2016s, 2017s, 2018s), Instr.: Prof. Shyan-Ming Yuan
+* Intro. to Cloud Systems (2016f), Instr.: Prof. Shyan-Ming Yuan
+* Intro. to Network Programming (2015f), Instr.: Prof. Shyan-Ming Yuan
+* Intro. to Computer Science (2015s), Instr.: Prof. Shyan-Ming Yuan
+* Intro. to Computers and Programming (2014f), Instr.: Wen-Ping Hwang
+* Object-Oriented Programming (2014s), Instr.: Wen-Ping Hwang
+* Social Network, Technology, and Trends (2013f), Instr.: Dr. Anderson Liang and Dr. Ruey Wu
+
 
 ## Publications
-
 ### Journal Papers
 1. **Che-Pin Chane** and Shyan-Ming Yuan <br>
 Cross-touch Attribution Model based on Factorization Machines for Online Advertising <br>
@@ -71,6 +110,24 @@ IEEE CSE 2013
 * Student Representative, NCTU Student Union (2011 - 2013)
 
 ## Selected Relevant Courses
+| Course name | Grade|
+|--|--|
+| Object-Oriented Programming                    | A  |
+| Data Structures                                | A+ |
+| Computer Networks                              | A+ |
+| Database Systems                               | A+ |
+| Operating Systems                              | A  |
+| Cloud Computing                                | A+ |
+| Distributed Computing Systems                  | A+ |
+| Big Data Analytics Techniques and Applications | A+ |
+| Key Technologies of IOT and their Applications | A  |
+| Artificial Intelligence                        | A- |
+| Image Processing                               | A- |
+| Algorithm                                      | A+ |
+| Linear Algebra                                 | A- |
+| Discrete Mathematics                           | A+ |
+| Numerical Methods                              | A+ |
+| Statistics                                     | A+ |
 
 ## Languages
 * Chinese - Naive 
