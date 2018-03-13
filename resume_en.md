@@ -30,7 +30,7 @@ CPE: 3/6
 ## Work Experience
 ### Internship, AdHub, FunP Inc. (2015 - 2016)
 Web Full Stack Developer
-* AdHub Shorten, a customized URL redirection service for cross-meida advertising
+* AdHub Shorten, a customized URL redirection service for cross-media advertising
 * AdHub Shorten Plugin, a chrome plugin of AdHub Shorten
 * Facebook crawler for public data of users and fanpages
 * Facebook operation agent
@@ -38,7 +38,7 @@ Web Full Stack Developer
 ### Internship, CacaFly Intl. Media, FunP Inc. (2017 - present)
 Data Researcher
 * Recommendation algo. design for Facebook fanpages' advertising campaign (a side project of Auto Booster)
-* Multi-touch attribution analysis for cross-meida advertising
+* Multi-touch attribution analysis for cross-media advertising
 * Customers' behaviors analysis for E-commerce  
 * Research on cost per fan (CPF) prediction for Facebook fanpages
 
