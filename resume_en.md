@@ -13,12 +13,12 @@ Data Mining, Machine Learning, Recommender System, Computational Advertising, Di
 ### National Chiao Tung University (2013 - present)
 Ph.D., Department of Computer Science <br>
 Advisor: Prof. **Shyan-Ming Yuan** <br>
-GPA: 3.94/4.3 <br>
+Major GPA: 4.13/4.3 <br>
 CPE: 6/6
 
 ### National Chiao Tung University (2010 - 2013)
 B.S., Department of Computer Science <br>
-GPA: 3.84/4.3 <br>
+Major GPA: 3.92/4.3 <br>
 CPE: 3/6
 
 ## Honors and awards
