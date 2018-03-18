@@ -37,7 +37,7 @@ Web Full Stack Developer
 
 ### Internship, CacaFly Intl. Media, FunP Inc. (2017 - present)
 Data Researcher
-* Recommendation algo. design for Facebook fanpages' advertising campaign (a side project of Auto Booster)
+* Recommendation algo. design for Facebook fanpages' advertising campaign ( core algo. of [Auto Booster](http://www.ad-hub.net/?page=page_auto_booster&lang=en#page_auto_booster))
 * Multi-touch attribution analysis for cross-media advertising
 * Customers' behaviors analysis for E-commerce  
 * Research on cost per fan (CPF) prediction for Facebook fanpages
