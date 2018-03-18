@@ -11,7 +11,7 @@ Data Mining, Machine Learning, Recommender System, Computational Advertising, Di
 
 ## Education
 ### National Chiao Tung University (2013 - present)
-Ph.D., Department of Computer Science <br>
+Ph.D., Department of Computer Science (Direct Ph.D. program) <br>
 Advisor: Prof. **Shyan-Ming Yuan** <br>
 Major GPA: 4.13/4.3 <br>
 CPE: 6/6
